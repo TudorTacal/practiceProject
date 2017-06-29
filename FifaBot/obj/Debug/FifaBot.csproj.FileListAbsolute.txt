@@ -1,0 +1,8 @@
+C:\Personal\Tudor\practiceProject\FifaBot\bin\Debug\FifaBot.exe.config
+C:\Personal\Tudor\practiceProject\FifaBot\bin\Debug\FifaBot.exe
+C:\Personal\Tudor\practiceProject\FifaBot\bin\Debug\FifaBot.pdb
+C:\Personal\Tudor\practiceProject\FifaBot\bin\Debug\RestSharp.dll
+C:\Personal\Tudor\practiceProject\FifaBot\bin\Debug\RestSharp.xml
+C:\Personal\Tudor\practiceProject\FifaBot\obj\Debug\FifaBot.csprojResolveAssemblyReference.cache
+C:\Personal\Tudor\practiceProject\FifaBot\obj\Debug\FifaBot.exe
+C:\Personal\Tudor\practiceProject\FifaBot\obj\Debug\FifaBot.pdb
